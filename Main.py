@@ -1,1 +1,4 @@
-print("Main File")
+module main
+
+def funct():
+  print("print funct")
